@@ -10,4 +10,3 @@ By looking at the demographics of traffic accident victims for each US state, we
 ### Resources
 - Data Sources:
 - Software:
-- 
