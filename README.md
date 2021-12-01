@@ -12,5 +12,5 @@ By looking at the demographics of traffic accident victims for each US state, we
 To accomplish these tasks, we will make use of data wrangling, plotting, dimensionality reduction, and unsupervised clustering.
 
 ### Resources
-- Data Sources: [Bad Drivers](https://github.com/fivethirtyeight/data/tree/master/bad-drivers)
+- Data Sources: [Bad Drivers](https://github.com/fivethirtyeight/data/blob/master/bad-drivers/bad-drivers.csv)
 - Software: Jupyter Notebook, Python 3.7.6
